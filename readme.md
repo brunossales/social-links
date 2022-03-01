@@ -1,38 +1,39 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Feito por Bruno agora">
 
-<p align="left" 2rem> 
-  Respositório destinado a estudos de WEB, assim como estudor por fora a parte do mesmo conteúdo, <strong>usando HTML 5 e CSS 3</strong>.<br>
-  Usei um método no qual também fazia resumos de outras cadeiras usando HTML 5 e CSS 3, para assim aprender as tecnologias e também a cadeira em questão.
-</p>
+<h1 align="center"> 
+  Social Links
+</h1>
 
-<p align="left">
-  🔍  Métodos: <strong>Resumos de outras cadeiras e encontros da célula de estudo.</strong>
-</p>
+<h2 align="left">
+  Página de links, que está sendo usada no meu Instagram, para facilitar o acesso as meus meios de comunicação e até mesmo ver o meu trabalho/estudo, como aqui no GitHub e LinkedIn
+</h2>
 
-<p align="left">
-  💼 Influência: <strong>Aprendendo cada vez mais sobre esse mundão de WEB e também o mundão técnico da faculdade.</strong>
-</p>
+<h3 align="left">
+  Meu Instagram: 
+  <a href="https://www.instagram.com/brunossaless/" alt="instagram" target="_blank"> 
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
+</h3>
 
 <p align="left">
     Informações do repositório: ⤵️
 </p>
 
 <p align="left">
-  <a href="https://github.com/brunossales/Web_FE_WEB" alt="RepoSize">
+  <a href="https://github.com/brunossales/social-links" alt="RepoSize">
 
-  <img height=24he src="https://img.shields.io/github/repo-size/brunossales/Web_FE_WEB" /> </a>
+  <img height=24he src="https://img.shields.io/github/repo-size/brunossales/social-links" /> </a>
 
   <a href="#" alt="Languagens">
 
-  <img height=24he src="https://img.shields.io/github/languages/count/brunossales/Web_FE_WEB" /> </a>
+  <img height=24he src="https://img.shields.io/github/languages/count/brunossales/social-links" /> </a>
 
   <a href="#" alt="Fork">
 
-  <img height=25he src="https://img.shields.io/github/stars/brunossales/Web_FE_WEB?style=social" /> </a>
+  <img height=25he src="https://img.shields.io/github/stars/brunossales/social-links?style=social" /> </a>
 
   <a href="#" alt="Watch">
 
-  <img height=25he src="https://img.shields.io/github/watchers/brunossales/Web_FE_WEB?style=social" /> 
+  <img height=25he src="https://img.shields.io/github/watchers/brunossales/social-links?style=social" /> 
 
   </a>
 
