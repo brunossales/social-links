@@ -9,10 +9,14 @@
 </h4>
 
 <h4 align="left">
-  Meu Instagram: 
-  <a href="https://www.instagram.com/brunossaless/" alt="instagram" target="_blank" > 
-    <img padding=10he height=24he src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
+  Meu instagram, onde a página está em uso: ⤵️
 </h4>
+
+<p align="left">
+
+<a href="https://www.instagram.com/brunossaless/" alt="instagram" target="_blank" > 
+    <img padding=10he height=24he src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
+</p>
 
 <h4 align="left">
     Informações do repositório: ⤵️
