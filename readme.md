@@ -4,19 +4,19 @@
   Social Links
 </h2>
 
-<h3 align="left">
+<h4 align="left">
   Página de links, que está sendo usada no meu Instagram, para facilitar o acesso as meus meios de comunicação e até mesmo ver o meu trabalho/estudo, como aqui no GitHub e LinkedIn
-</h3>
+</h4>
 
-<h3 align="left">
+<h4 align="left">
   Meu Instagram: 
   <a href="https://www.instagram.com/brunossaless/" alt="instagram" target="_blank" > 
-    <img height=24he src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
-</h3>
+    <img padding=10he height=24he src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
+</h4>
 
-<p align="left">
+<h4 align="left">
     Informações do repositório: ⤵️
-</p>
+</h4>
 
 <p align="left">
   <a href="https://github.com/brunossales/social-links" alt="RepoSize">
