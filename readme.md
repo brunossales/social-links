@@ -1,17 +1,17 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Feito por Bruno agora">
 
-<h1 align="center"> 
+<h2 align="center"> 
   Social Links
-</h1>
-
-<h2 align="left">
-  Página de links, que está sendo usada no meu Instagram, para facilitar o acesso as meus meios de comunicação e até mesmo ver o meu trabalho/estudo, como aqui no GitHub e LinkedIn
 </h2>
 
 <h3 align="left">
+  Página de links, que está sendo usada no meu Instagram, para facilitar o acesso as meus meios de comunicação e até mesmo ver o meu trabalho/estudo, como aqui no GitHub e LinkedIn
+</h3>
+
+<h3 align="left">
   Meu Instagram: 
-  <a href="https://www.instagram.com/brunossaless/" alt="instagram" target="_blank"> 
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
+  <a href="https://www.instagram.com/brunossaless/" alt="instagram" target="_blank" > 
+    <img height=24he src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
 </h3>
 
 <p align="left">
