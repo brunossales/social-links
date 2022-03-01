@@ -39,7 +39,7 @@ button:focus{
     width: 90%;
     height: 100px;
 
-    margin-top: 20px;
+    margin-top: 10px;
 
     display: flex;
     justify-content: center;
@@ -51,9 +51,9 @@ button:focus{
     height: 100px;
 
     border-radius: 50px;
-    border-color: rgb(189, 127, 180);
+    border-color: rgb(206, 153, 198);
     border-style: solid;
-    border-width: 4px;
+    border-width: 2px;
     
 }
 
@@ -109,4 +109,11 @@ button:focus{
 
 .social-links ul li button:hover{
     background: rgb(60, 31, 77)   
+}
+
+.autor{
+    color: aliceblue;
+    text-shadow: 0.7em 0.5em 0.5em rgb(0, 0, 0);
+    margin-top: 10px;
+    font-size: 1rem;
 }
